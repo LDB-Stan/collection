@@ -1,3 +1,33 @@
 User-agent: *
 Disallow: /
 Disallow: /cgi-bin/
+
+User-agent: adidxbot
+Disallow: /
+Disallow: /cgi-bin/
+
+
+
+User-agent: GPTBot
+Disallow: /
+Disallow: /cgi-bin/
+
+User-agent: ClaudeBot
+Disallow: /
+Disallow: /cgi-bin/
+
+User-agent: CCBot
+Disallow: /
+Disallow: /cgi-bin/
+
+User-agent: Google-Extended
+Disallow: /
+Disallow: /cgi-bin/
+
+User-agent: Bytespider
+Disallow: /
+Disallow: /cgi-bin/
+
+User-agent: PerplexityBot
+Disallow: /
+Disallow: /cgi-bin/
