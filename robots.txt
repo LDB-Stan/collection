@@ -6,8 +6,6 @@ User-agent: adidxbot
 Disallow: /
 Disallow: /cgi-bin/
 
-
-
 User-agent: GPTBot
 Disallow: /
 Disallow: /cgi-bin/
